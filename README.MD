@@ -19,12 +19,12 @@
 <br />
 </div>
 
-💫 About
+⭐ **ABOUT**
 
 ⭐ **Checkout the live demo of the application [here](https://refine-dashboard-hwth7y86y-nishant-chaudharis-projects.vercel.app/).**
 
 
-⚙️ Tech Stack
+⚙️ **TECH STACK**
 
 - Refine
 - TypeScript
@@ -33,7 +33,7 @@
 - Codegen
 - Vite
 
-⚡ Features
+⚡ **FEATURES**
 
  👉 **Authentication**: Seamless onboarding with secure login and signup functionalities; robust password recovery ensures a smooth authentication experience.
 
