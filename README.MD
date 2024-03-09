@@ -17,27 +17,14 @@
 <div align="center">Build your React-based internal tools, admin panels, dashboards, B2B apps with flexibility in mind.<br>An open-source, headless React meta-framework, developed with a commitment to best practices, flexibility, minimal tech debt, and team alignment, could be a perfect fit for dynamic environments.
 <br />
 <br />
-
-[![Discord](https://img.shields.io/discord/837692625737613362.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/refine)
-[![Twitter Follow](https://img.shields.io/twitter/follow/refine_dev?style=social)](https://twitter.com/refine_dev)
-
 </div>
 
-## About
+💫 About
 
 ⭐ **Checkout the live demo of the application [here](https://refine-dashboard-hwth7y86y-nishant-chaudharis-projects.vercel.app/).**
 
-The source codeof an enterprise-grade and production-ready internal tool example named "Real-Time CRM Dashboard" has been developed using [Refine](https://refine.dev/), [Ant Design](https://ant.design/), and [GraphQL](https://graphql.org/).
 
-Refine is an open-source React-meta framework specifically designed to meet the requirements of enterprise companies dev teams. It comes with a core package that simplifies app requirements like data handling, authentication, access control, etc.
-
-The repository also open-source; feel free to use or inspect it to discover how Refine works.
-
-Being production-ready, you can either build your own **B2B applications**, **internal tools**, **admin panels**, **dashboards** and all type of **CRUD** applications. using it as a code base or directly implement it as is.
-
-
-
-⚙️ ## Tech Stack
+⚙️ Tech Stack
 
 - Refine
 - TypeScript
@@ -46,7 +33,7 @@ Being production-ready, you can either build your own **B2B applications**, **in
 - Codegen
 - Vite
 
-⚡ ## Features
+⚡ Features
 
  👉 **Authentication**: Seamless onboarding with secure login and signup functionalities; robust password recovery ensures a smooth authentication experience.
 
@@ -63,6 +50,7 @@ Being production-ready, you can either build your own **B2B applications**, **in
 👉 **Responsive**: Full responsiveness across devices for consistent user experience; fluid design adapts seamlessly to various screen sizes, ensuring accessibility.
 
 <br>
+⭐ Demo video 
 
 ![Product Edit Page](https://refine.ams3.cdn.digitaloceanspaces.com/example-readmes/CRM-Minimal/crm-demo.gif "Demo GIF")
 
