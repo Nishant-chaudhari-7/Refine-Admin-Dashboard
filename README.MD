@@ -21,7 +21,7 @@
 
 ⭐ **ABOUT**
 
-⭐ **Checkout the live demo of the application [here](https://refine-dashboard-hwth7y86y-nishant-chaudharis-projects.vercel.app/).**
+⭐ **Checkout the live demo of the application [here](https://refine-admin-dashboard-two.vercel.app).**
 
 
 ⚙️ **TECH STACK**
